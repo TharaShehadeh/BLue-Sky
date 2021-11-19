@@ -67,7 +67,7 @@ the reservation process is supposed to be done in this sprint ,but because the r
 
 * sprint1 Last 24 hours:
 ------------------------------------- 
-
+In the last 24 hours, the team met with the client to present what has been accomplished and receive any modification he wants. It was agreed to complete part of the booking process and postpone the other part of it for the next sprint, which led to relieving the development team's workload.
 
 * sprint1 Next 24 hours :
 ------------------------------------- 

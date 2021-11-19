@@ -137,6 +137,6 @@ We faced some difficulties in dealing with the development tools, due to the dif
 ----------------------------------
 5-Roaa --> UML UseCases diagrams ,SQL(Database)
 ----------------------------------
-6-Raghad --> UML UseCases diagrams,UML sequans diagrams 
+6-Raghad --> UML UseCases diagrams,UML  sequence diagrams 
 ----------------------------------
 

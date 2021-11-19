@@ -31,7 +31,8 @@ We added a file contaning the backlogs.
 
 * 📷 Screenshots:
 -------------------------------------
-We added a file contaning a proofs of daily meeting and pair programing .
+We added a file contaning a proofs of daily meeting and pair programing.
+
 
 * UML use cases:
 -------------------------------------
@@ -51,6 +52,7 @@ Note to open the file , you must download "Drow.io" program.
 * SRS:
 -------------------------------------
 We added a file containg SRS.
+
 
 
 

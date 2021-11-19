@@ -11,8 +11,8 @@
 ----------------------------------
 1-Thara Shehdaeh
 2- Hala Shehadeh 
-3-Roa'a Sawalmaeh
-3-Misk Sawalalha
+3-Roa'a Sawalmeh
+3-Misk Sawallha
 4-Marah Dmaide
 5-Raghad Marie
 

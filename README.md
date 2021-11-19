@@ -123,3 +123,14 @@ We have increased the number of development team members to complete the tasks f
 ----------------------------------
 We faced some difficulties in dealing with the development tools, due to the different versions of programs for each member of the development team, and that was the reason that led to the failure to complete all the required tasks on time, and there is another problem, which is the absence of one of the team members due to a health problem.In addition to the lack of time and the large number of tasks.
 
+
+
+* team members name and the role :
+----------------------------------
+1-Marah --> SRS, Backlogs(userStories,Tasks) , Backend(sprint1) ,Trello(sprint2) ,Slack ,Trello
+2-Thara --> UML class diarams , gitHub(uploading files,add team members,READme file) , SQL(Database) ,Trello(Tasks) 
+3-Hala --> SRS ,Backlogs(userStories,Tasks) ,Trello(sprint1) , UML class diagrams ,gitHub(uploading files ,READme file) 
+4-Misk --> Frontend(GUI),SQL(Database)
+5-Roaa --> UML UseCases diagrams ,SQL(Database)
+6-Raghad --> UML UseCases diagrams,UML sequans diagrams 
+

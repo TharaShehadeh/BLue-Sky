@@ -43,5 +43,11 @@ Note to open the file , you must download "EdrawMax" program.
 We added a file containg UML sequence diagrams.
 Note to open the file , you must download "Drow.io" program.
 
+* UML class diagrams:
+-------------------------------------
+We added a file containg UML class diagrams.
+Note to open the file , you must download "Drow.io" program.
+
+
 
 

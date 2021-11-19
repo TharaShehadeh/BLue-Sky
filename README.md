@@ -89,7 +89,7 @@ We added a file containg SRS.
 
 * Sprint1 Tasks Estimation :
 ----------------------------------
-17 tasks are expected to be done by the team.
+16 tasks are expected to be done by the team.
 
 
 

@@ -2,10 +2,10 @@
 
  
                                                 
-* Stckholders
+* Stckholders:
 ----------------------------------
 1- admine
-2-customer
+2-customers
 
 * 🤝 group members:
 ----------------------------------
@@ -19,9 +19,12 @@
 💻 Technologies
 ------------------------------------
 Backend Technologies:
-Java FX.
+JavaFX.
+
 Frontend Technologies
-Java FX.
+JavaFX.
+scene builder
+
 Database Management
 mySql developer.
 
@@ -54,7 +57,12 @@ Note to open the file , you must download "Drow.io" program.
 We added a file containg SRS.
 
 
-* Sprint1:
+* Sprint1 Tasks Estimation :
 -------------------------------------
+17 tasks are expected to be done by the team.
+
+* sprint1 Re-estimation :
+------------------------------------- 
+the reservation process is supposed to be done in this sprint ,but because the reversation process is too long ,part of it has been completed and the rest has been postponed.
 
 

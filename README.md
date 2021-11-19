@@ -33,7 +33,10 @@ We added a file contaning the backlogs.
 -------------------------------------
 We added a file contaning a proofs of daily meeting and pair programing .
 
-
+* UML use cases:
+-------------------------------------
+We added a file containg  UML use cases.
+Note to open the file , you must download EdrowMax program.
 
 
 

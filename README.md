@@ -1,8 +1,7 @@
                                                               Blue -Sky- project  
-                                                              
-     ![Uploading airplane-wing-sky.jpg…]()
+
  
-                                                  
+                                                
 *Stckholders
 1- admine
 2-customer

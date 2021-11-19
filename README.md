@@ -1,8 +1,8 @@
-*Stackholders:
+*Stckholders
+1- admine
+2-customer
 
-1-customer
 
-2-admin
 
 
 

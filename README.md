@@ -48,6 +48,9 @@ Note to open the file , you must download "Drow.io" program.
 We added a file containg UML class diagrams.
 Note to open the file , you must download "Drow.io" program.
 
+* SRS:
+-------------------------------------
+We added a file containg SRS.
 
 
 

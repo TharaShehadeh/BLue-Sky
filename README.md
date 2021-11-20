@@ -4,7 +4,7 @@
                                                 
 * Stckholders:
 ----------------------------------
-1- admine
+1- admin
 2-customers
 
 

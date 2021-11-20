@@ -127,16 +127,16 @@ We faced some difficulties in dealing with the development tools, due to the dif
 
 * team members name and the role :
 ----------------------------------
-1-Marah --> SRS, Backlogs(userStories,Tasks) , Backend(sprint1) ,Trello(sprint2) ,Slack ,Trello
+1-Marah --> SRS, Backlogs(userStories,Tasks) , Backend(sprint1) ,Trello(sprint2) ,Slack ,Trello ,cheak Backend(sprint1)
 ----------------------------------
-2-Thara --> SRS ,UML class diarams , gitHub(uploading files,add team members,READme file) , SQL(Database) ,Trello(Tasks) 
+2-Thara --> SRS ,UML class diarams , gitHub(uploading files,add team members,READme file) , SQL(Database) ,Trello(Tasks)
 ----------------------------------
 3-Hala --> SRS ,Backlogs(userStories,Tasks) ,Trello(sprint1) , UML class diagrams ,gitHub(uploading files ,READme file) 
 ----------------------------------
-4-Misk --> SRS ,Frontend(GUI),SQL(Database)
+4-Misk --> SRS ,Frontend(GUI),SQL(Database) ,cheak Backend(sprint1)
 ----------------------------------
-5-Roaa --> SRS ,UML UseCases diagrams ,SQL(Database)
+5-Roaa --> SRS ,UML UseCases diagrams ,SQL(Database) , cheak Backend(sprint1) 
 ----------------------------------
-6-Raghad --> SRS ,UML UseCases diagrams,UML  sequence diagrams 
+6-Raghad --> SRS ,UML UseCases diagrams ,UML  sequence diagrams  ,cheak Backend(sprint1) 
 ----------------------------------
 

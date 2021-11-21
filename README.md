@@ -161,6 +161,39 @@ Task16 --> 1 Hours(Backend,Forntend&SQL)
 ----------------------------------
 the reservation process is supposed to be done in this sprint ,but because the reversation process is too long ,part of it has been completed and the rest has been postponed.
 
+1-Task1 --> 7 Hours ,due to fault in SQL.
+
+2-Task2 --> 2 Hours(Backend,Forntend&SQL)
+
+3-Task3 --> 2 Hours(Backend,Forntend&SQL)
+
+4-Task4 --> 3 Hours(Backend,Forntend&SQL)
+
+5-Task5 --> 1 Hours(Backend,Forntend&SQL)
+
+6-Task6 --> 2 Hours(Backend,Forntend&SQL)
+
+7-Task7 --> 3 Hours(Backend,Forntend&SQL)
+
+8-Task8 --> 7 Hours(Backend,Forntend&SQL)
+
+9-Task9 --> 2 Hours(Backend,Forntend&SQL)
+
+10-Task10 --> 8 Hours(Backend,Forntend&SQL)
+
+11-Task11 --> 2 Hours(Backend,Forntend&SQL)
+
+12-Task12 --> 3 Hours(Backend,Forntend&SQL)
+
+13-Task13 --> 3 Hours(Backend,Forntend&SQL)
+
+14-Task14 --> 5 Hours(Backend,Forntend&SQL)
+
+15-Task15 --> 4 Hours(Backend,Forntend&SQL)
+
+16-Task16 --> 1 Hours(Backend,Forntend&SQL)
+
+
 
 
 

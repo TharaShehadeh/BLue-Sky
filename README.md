@@ -90,7 +90,24 @@ We added a file containg SRS.
 * Sprint1 Tasks Estimation :
 ----------------------------------
 16 tasks are expected to be done by the team.
+Task1 --> 4-6 Hours(Backend,Forntend&SQL)
+Task2 --> 2 Hours(Backend,Forntend&SQL)
+Task3 --> 2 Hours(Backend,Forntend&SQL)
+Task4 --> 3 Hours(Backend,Forntend&SQL)
+Task5 --> 1 Hours(Backend,Forntend&SQL)
+Task6 --> 2 Hours(Backend,Forntend&SQL)
+Task7 --> 3 Hours(Backend,Forntend&SQL)
+Task8 --> 7 Hours(Backend,Forntend&SQL)
+Task9 --> 2 Hours(Backend,Forntend&SQL)
+Task10 --> 8 Hours(Backend,Forntend&SQL)
+Task11 --> 2 Hours(Backend,Forntend&SQL)
+Task12 --> 3 Hours(Backend,Forntend&SQL)
+Task13 --> 3 Hours(Backend,Forntend&SQL)
+Task14 --> 5 Hours(Backend,Forntend&SQL)
+Task15 --> 4 Hours(Backend,Forntend&SQL)
+Task6 --> 1 Hours(Backend,Forntend&SQL)
 
+ 
 
 
 

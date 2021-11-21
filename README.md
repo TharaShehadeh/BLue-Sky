@@ -119,6 +119,7 @@ We added a file containg SRS.
 * Sprint1 Tasks Estimation :
 ----------------------------------
 16 tasks are expected to be done by the team.
+
 Task1 --> 4-6 Hours(Backend,Forntend&SQL)
 
 Task2 --> 2 Hours(Backend,Forntend&SQL)

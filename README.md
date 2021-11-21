@@ -41,6 +41,9 @@ mySql developer.
 ----------------------------------
 We added a file contaning the backlogs.
 
+* Backlogs Priority:
+----------------------------------
+
 
 
 

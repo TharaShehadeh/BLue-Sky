@@ -33,11 +33,11 @@
 Backend Technologies: 
 JavaFX.
 
-Frontend Technologies
-JavaFX.
+Frontend Technologies:
+JavaFX,
 scene builder
 
-Database Management
+Database Management:
 mySql developer.
 
 

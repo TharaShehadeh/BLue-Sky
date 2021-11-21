@@ -44,19 +44,33 @@ We added a file contaning the backlogs.
 * Backlogs Priority:
 ----------------------------------
 1.Signup
+
 2.Login
+
 3.Book Flights
+
 4.Book a car
+
 5.Book an hotel
+
 6.Flight Status
+
 7.Profile
+
 8.Wallet
+
 9.Trips
+
 10.Offers
+
 11.Feedback
+
 12.Logout
+
 13.Contact Us
+
 14.About Us
+
 
 
 * 📷 Screenshots:

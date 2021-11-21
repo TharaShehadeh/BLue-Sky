@@ -193,6 +193,10 @@ the reservation process is supposed to be done in this sprint ,but because the r
 
 16-Task16 --> 1 Hours
 
+* Burndown Chart for sprint1:
+----------------------------------
+We added a file containg screenshot of the chart.
+
 
 
 * sprint1 Last 24 hours:

@@ -119,7 +119,6 @@ We added a file containg SRS.
 * Sprint1 Tasks Estimation :
 ----------------------------------
 16 tasks are expected to be done by the team.
-
 Task1 --> 4-6 Hours(Backend,Forntend&SQL)
 
 Task2 --> 2 Hours(Backend,Forntend&SQL)
@@ -164,38 +163,35 @@ the reservation process is supposed to be done in this sprint ,but because the r
 
 1-Task1 --> 7 Hours ,due to fault in SQL.
 
-2-Task2 --> 2 Hours(Backend,Forntend&SQL)
+2-Task2 --> 2 Hours.
 
-3-Task3 --> 2 Hours(Backend,Forntend&SQL)
+3-Task3 --> 1 Hours ,short task.
 
-4-Task4 --> 3 Hours(Backend,Forntend&SQL)
+4-Task4 --> 2 Hours ,due to an existing table in SQL containing customers' emails so that it make it easy to the verification process. 
 
-5-Task5 --> 1 Hours(Backend,Forntend&SQL)
+5-Task5 --> 1 Hours.
 
-6-Task6 --> 2 Hours(Backend,Forntend&SQL)
+6-Task6 --> 1 Hours ,short task.
 
-7-Task7 --> 3 Hours(Backend,Forntend&SQL)
+7-Task7 --> 2 Hours ,simple task.
 
-8-Task8 --> 7 Hours(Backend,Forntend&SQL)
+8-Task8 --> 5 Hours ,does not requierd all 7 hours due to the team work.
 
-9-Task9 --> 2 Hours(Backend,Forntend&SQL)
+9-Task9 --> postponed to sprint2 ,because of leakge time.
 
-10-Task10 --> 8 Hours(Backend,Forntend&SQL)
+10-Task10 --> 8 Hours.
 
-11-Task11 --> 2 Hours(Backend,Forntend&SQL)
+11-Task11 --> 2 Hours.
 
-12-Task12 --> 3 Hours(Backend,Forntend&SQL)
+12-Task12 --> 2 Hours ,simple task.
 
-13-Task13 --> 3 Hours(Backend,Forntend&SQL)
+13-Task13 --> 2 Hours ,simple task.
 
-14-Task14 --> 5 Hours(Backend,Forntend&SQL)
+14-Task14 --> 5 Hours
 
-15-Task15 --> 4 Hours(Backend,Forntend&SQL)
+15-Task15 --> 5 Hours ,did some part of this task(can view the flights without booking).
 
-16-Task16 --> 1 Hours(Backend,Forntend&SQL)
-
-
-
+16-Task16 --> 1 Hours
 
 
 

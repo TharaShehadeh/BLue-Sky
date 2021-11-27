@@ -256,6 +256,21 @@ Task5 --> 4-5 Hours ,due to  fault in SQL.
 ----------------------------------
 The team members were meeting in the uviversity  for 2-3 hours per day , to discuss what we did and have to do next.
 
+
+
+* Sprint2 Last 24 hours:
+----------------------------------
+In the last 24 hours, the team met with the customer to present what has been accomplished and receive any modification he wants.
+
+
+
+
+
+* Sprint2 Next 24 hours :
+----------------------------------
+We have increased the number of development team members to complete the tasks faster and then present them to the customer and get feedback,And give the team tasks for the next stage.
+
+
 * team members name and the role :
 ----------------------------------
 1-Marah --> SRS, Backlogs(userStories,Tasks),Backend(sprint1),Trello(sprint2),Slack account,Trello ccount ,check Backend(sprint1) ,Burndown Chart

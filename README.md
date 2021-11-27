@@ -271,6 +271,10 @@ In the last 24 hours, the team met with the customer to present what has been ac
 We have increased the number of development team members to complete the tasks faster and then present them to the customer and get feedback,And give the team tasks for the next stage.
 
 
+* Sprint2 Impediments :
+----------------------------------
+We faced some difficulties due to the lack of time.
+
 * team members name and the role :
 ----------------------------------
 1-Marah --> SRS, Backlogs(userStories,Tasks),Backend(sprint1),Trello(sprint2),Slack account,Trello ccount ,check Backend(sprint1) ,Burndown Chart

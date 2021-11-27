@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="549.0" prefWidth="409.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="blue.sky.OneflightController">
+    <stylesheets>
+        <URL value="@oneflight.css" />
+    </stylesheets>
+   <children>
+      <AnchorPane id="AnchorPane" layoutX="10.0" layoutY="10.0" prefHeight="536.0" prefWidth="400.0" styleClass="mainFxmlClass">
+         <stylesheets>
+            <URL value="@flights.css" />
+         </stylesheets>
+         <children>
+            <ImageView fitHeight="536.0" fitWidth="416.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@a.jpg" />
+               </image>
+            </ImageView>
+            <TableView layoutY="111.0" prefHeight="428.0" prefWidth="402.0">
+               <columns>
+                  <TableColumn fx:id="depart" prefWidth="75.0" text="Depart" />
+                  <TableColumn fx:id="departDate" prefWidth="84.0" text="Depart Date" />
+                  <TableColumn fx:id="arrive" prefWidth="84.0" text="Arrive " />
+               </columns>
+            </TableView>
+            <Button layoutY="2.0" mnemonicParsing="false" onAction="#back" prefHeight="32.0" prefWidth="48.0" style="-fx-background-color: TX;" text="&lt;&lt;" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

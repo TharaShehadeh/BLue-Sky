@@ -243,6 +243,14 @@ Task6 --> 2-4 Hours(Backend,Forntend&SQL)
 
 Task7 --> 5-6 Hours(Backend,Forntend&SQL)
 
+* Sprint2 Re-estimation :
+----------------------------------
+the reservation process is supposed to be done in this sprint ,but because the reversation process is too long ,part of it has been completed and the rest has been postponed.
+
+Task1 --> 7 Hours ,due to  essue with member's PC.
+
+Task5 --> 4-5 Hours ,due to  fault in SQL.
+
 
 * team members name and the role :
 ----------------------------------

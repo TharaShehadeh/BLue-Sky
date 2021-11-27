@@ -254,7 +254,7 @@ Task5 --> 4-5 Hours ,due to  fault in SQL.
 
 * Daily scrum meeting for sprint2 :
 ----------------------------------
-The team members were meeting in the uviversity  for 2-3 hours per day , to discuss what we did and have to do next.
+The team members were meeting in the uviversity  for 2-3 hours per day , to discuss what we did and have to do next.There is a screenshot in screenshot file , proofs the daily scrum.
 
 
 

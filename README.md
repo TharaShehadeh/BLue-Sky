@@ -252,6 +252,10 @@ Task1 --> 7 Hours ,due to  essue with member's PC.
 Task5 --> 4-5 Hours ,due to  fault in SQL.
 
 
+* Daily scrum meeting for sprint2 :
+----------------------------------
+The team members were meeting in the uviversity  for 2-3 hours per day , to discuss what we did and have to do next.
+
 * team members name and the role :
 ----------------------------------
 1-Marah --> SRS, Backlogs(userStories,Tasks),Backend(sprint1),Trello(sprint2),Slack account,Trello ccount ,check Backend(sprint1) ,Burndown Chart

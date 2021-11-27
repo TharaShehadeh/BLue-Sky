@@ -226,6 +226,23 @@ We have increased the number of development team members to complete the tasks f
 We faced some difficulties in dealing with the development tools, due to the different versions of programs for each member of the development team, and that was the reason that led to the failure to complete all the required tasks on time, and there is another problem, which is the absence of one of the team members due to a health problem.In addition to the lack of time and the large number of tasks.
 
 
+* Sprint2 Tasks Estimation :
+----------------------------------
+7 tasks are expected to be done by the team.
+Task1 --> 4-6 Hours(Backend,Forntend&SQL)
+
+Task2 --> 5 Hours(Backend,Forntend&SQL)
+
+Task3 --> 5-7 Hours(Backend,Forntend&SQL)
+
+Task4 --> 2-4 Hours(Backend,Forntend&SQL)
+
+Task5 --> 3 Hours(Backend,Forntend&SQL)
+
+Task6 --> 2-4 Hours(Backend,Forntend&SQL)
+
+Task7 --> 5-6 Hours(Backend,Forntend&SQL)
+
 
 * team members name and the role :
 ----------------------------------

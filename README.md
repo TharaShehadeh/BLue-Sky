@@ -125,6 +125,7 @@ We added a file containg SRS.
 * Sprint1 Tasks Estimation :
 ----------------------------------
 8 tasks are expected to be done by the team.
+
 Task1 --> 4-6 Hours(Backend,Forntend&Xampp)
 
 Task2 --> 2 Hours(Backend,Forntend&Xammp)
@@ -244,16 +245,16 @@ We faced some difficulties due to the lack of time.
 
 * team members name and the role :
 ----------------------------------
-1-Marah --> SRS, Backlogs(userStories,Tasks),Backend(sprint1),Trello(sprint2),Slack account,Trello ccount ,check Backend(sprint1) ,Burndown Chart
+1-Marah --> wordFile SRS,wordFile containes Backlogs(userStories,Tasks ),Backend(sprint1,sprint2),Trello(sprint2),Slack account,Trello account ,Burndown Chart,gitHub(READme file), Xammp Database ,Demo of our project.
 ----------------------------------
-2-Thara --> SRS ,UML class diarams , gitHub account(uploading files,add team members,READme file) , SQL(Database) ,Trello(Tasks),Burndown Chart
+2-Hala --> wordFile SRS ,wordFile Backlogs(userStories,Tasks) ,Backend(sprint1,sprint2),Trello(sprint1) , UML class diagrams ,gitHub(uploading files ,READme file) ,Burndown Chart,Xammp Database,Demo of our project.
 ----------------------------------
-3-Hala --> SRS ,Backlogs(userStories,Tasks) ,Trello(sprint1) , UML class diagrams ,gitHub(uploading files ,READme file) ,Burndown Chart
+3-Thara --> wordFile SRS ,UML class diarams , gitHub account(uploading files,add team members,READme file) ,Trello(Tasks),Burndown Chart,Xammp Database
 ----------------------------------
-4-Misk --> SRS ,Frontend(GUI),SQL(Database) ,cheak Backend(sprint1)
+4-Roaa --> wordFile SRS ,UML UseCases diagrams,Xammp Database,GUI
 ----------------------------------
-5-Roaa --> SRS ,UML UseCases diagrams ,SQL(Database) , cheak Backend(sprint1) 
+5-Raghad --> wordFile SRS ,UML UseCases diagrams ,UML  sequence diagrams ,Xammp Database,GUI,Backend(sprint1,sprint2)
 ----------------------------------
-6-Raghad --> SRS ,UML UseCases diagrams ,UML  sequence diagrams  ,cheak Backend(sprint1) 
+6-Misk --> wordFile SRS ,Frontend(GUI),Xammp Database.
 ----------------------------------
 

@@ -198,17 +198,17 @@ We faced some difficulties in dealing with the development tools, due to the dif
 7 tasks are expected to be done by the team.
 Task1 --> 4-6 Hours(Backend,Forntend&SQL)
 
-Task2 --> 5 Hours(Backend,Forntend&SQL)
+Task2 --> 5 Hours(Backend,Forntend&Xammp)
 
-Task3 --> 5-7 Hours(Backend,Forntend&SQL)
+Task3 --> 5-7 Hours(Backend,Forntend&Xammp)
 
-Task4 --> 2-4 Hours(Backend,Forntend&SQL)
+Task4 --> 2-4 Hours(Backend,Forntend&Xammp)
 
-Task5 --> 3 Hours(Backend,Forntend&SQL)
+Task5 --> 3 Hours(Backend,Forntend&Xammp)
 
-Task6 --> 2-4 Hours(Backend,Forntend&SQL)
+Task6 --> 2-4 Hours(Backend,Forntend&Xammp)
 
-Task7 --> 5-6 Hours(Backend,Forntend&SQL)
+Task7 --> 5-6 Hours(Backend,Forntend&Xammp)
 
 * Sprint2 Re-estimation :
 ----------------------------------
@@ -216,7 +216,7 @@ the reservation process is supposed to be done in this sprint ,but because the r
 
 Task1 --> 7 Hours ,due to  essue with member's PC.
 
-Task5 --> 4-5 Hours ,due to  fault in SQL.
+Task5 --> 4-5 Hours ,due to  fault in xampp.
 
 
 * Daily scrum meeting for sprint2 :

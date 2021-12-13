@@ -31,14 +31,14 @@
 💻 Technologies:
 ----------------------------------
 Backend Technologies: 
-JavaFX.
+Java.
 
 Frontend Technologies:
-JavaFX,
-scene builder
+Java,
+Netbeans.
 
 Database Management:
-mySql developer.
+Xampp.
 
 
 
@@ -81,7 +81,7 @@ We added a file contaning the backlogs.
 
 * 📷 Screenshots:
 ----------------------------------
-We added a file contaning a proofs of daily meeting and pair programing.
+We added a file contaning proofs of daily meeting and pair programing.
 
 
 
@@ -124,44 +124,25 @@ We added a file containg SRS.
 
 * Sprint1 Tasks Estimation :
 ----------------------------------
-16 tasks are expected to be done by the team.
-Task1 --> 4-6 Hours(Backend,Forntend&SQL)
+8 tasks are expected to be done by the team.
+Task1 --> 4-6 Hours(Backend,Forntend&Xampp)
 
-Task2 --> 2 Hours(Backend,Forntend&SQL)
+Task2 --> 2 Hours(Backend,Forntend&Xammp)
 
-Task3 --> 2 Hours(Backend,Forntend&SQL)
+Task3 --> 3 Hours(Backend,Forntend&Xammp)
 
-Task4 --> 3 Hours(Backend,Forntend&SQL)
+Task4 --> 3 Hours(Backend,Forntend&Xammp)
 
-Task5 --> 1 Hours(Backend,Forntend&SQL)
+Task5 --> 2 Hours(Backend,Forntend&Xammp)
 
-Task6 --> 2 Hours(Backend,Forntend&SQL)
+Task6 --> 10 Hours(Backend,Forntend&Xammp)
 
-Task7 --> 3 Hours(Backend,Forntend&SQL)
+Task7 --> 8 Hours(Backend,Forntend&Xammp)
 
-Task8 --> 7 Hours(Backend,Forntend&SQL)
+Task8 --> 1 Hours(Backend,Forntend&Xammp)
 
-Task9 --> 2 Hours(Backend,Forntend&SQL)
-
-Task10 --> 8 Hours(Backend,Forntend&SQL)
-
-Task11 --> 2 Hours(Backend,Forntend&SQL)
-
-Task12 --> 3 Hours(Backend,Forntend&SQL)
-
-Task13 --> 3 Hours(Backend,Forntend&SQL)
-
-Task14 --> 5 Hours(Backend,Forntend&SQL)
-
-Task15 --> 4 Hours(Backend,Forntend&SQL)
-
-Task16 --> 1 Hours(Backend,Forntend&SQL)
 
  
-
-
-
-
 
 * sprint1 Re-estimation :
 ----------------------------------

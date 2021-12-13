@@ -148,37 +148,23 @@ Task8 --> 1 Hours(Backend,Forntend&Xammp)
 ----------------------------------
 the reservation process is supposed to be done in this sprint ,but because the reversation process is too long ,part of it has been completed and the rest has been postponed.
 
-1-Task1 --> 7 Hours ,due to fault in SQL.
+1-Task1 --> 7 Hours ,due to fault in xampp.
 
 2-Task2 --> 2 Hours.
 
 3-Task3 --> 1 Hours ,short task.
 
-4-Task4 --> 2 Hours ,due to an existing table in SQL containing customers' emails so that it make it easy to the verification process. 
+4-Task4 --> 2 Hours ,due to an existing table in xampp containing customers' usernames so that it make it easy to the verification process. 
 
-5-Task5 --> 1 Hours.
+5-Task5 --> 2 Hours.
 
-6-Task6 --> 1 Hours ,short task.
+6-Task6 --> 10 Hours.
 
-7-Task7 --> 2 Hours ,simple task.
+7-Task7 --> 8 Hours.
 
-8-Task8 --> 5 Hours ,does not requierd all 7 hours due to the team work.
+8-Task8 --> 1 Hour ,simple task.
 
-9-Task9 --> postponed to sprint2 ,because of leakge time.
 
-10-Task10 --> 8 Hours.
-
-11-Task11 --> 2 Hours.
-
-12-Task12 --> 2 Hours ,simple task.
-
-13-Task13 --> 2 Hours ,simple task.
-
-14-Task14 --> 5 Hours
-
-15-Task15 --> 5 Hours ,did some part of this task(can view the flights without booking).
-
-16-Task16 --> 1 Hours
 
 * Burndown Chart for sprint1:
 ----------------------------------

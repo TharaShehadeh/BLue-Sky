@@ -197,7 +197,8 @@ We faced some difficulties in dealing with the development tools, due to the dif
 * Sprint2 Tasks Estimation :
 ----------------------------------
 7 tasks are expected to be done by the team.
-Task1 --> 4-6 Hours(Backend,Forntend&SQL)
+
+Task1 --> 4-6 Hours(Backend,Forntend&Xammp)
 
 Task2 --> 5 Hours(Backend,Forntend&Xammp)
 

@@ -250,7 +250,7 @@ We faced some difficulties due to the lack of time.
 ----------------------------------
 2-Hala --> wordFile SRS ,wordFile Backlogs(userStories,Tasks) ,Backend(sprint1,sprint2),Trello(sprint1) , UML class diagrams ,gitHub(uploading files ,READme file) ,Burndown Chart,Xammp Database,Demo of our project.
 ----------------------------------
-3-Thara --> wordFile SRS ,UML class diarams , gitHub account(uploading files,add team members,READme file) ,Trello(Tasks),Burndown Chart,Xammp Database,Demo of our project
+3-Thara --> wordFile SRS ,UML class diarams , gitHub account(uploading files,add team members,READme file) ,Trello(Tasks),Burndown Chart,Xammp Database
 ----------------------------------
 4-Roaa --> wordFile SRS ,UML UseCases diagrams,Xammp Database,GUI,Backend(sprint1,sprint2),Demo of our project,gitHub(uploading project),wordFile Backlogs
 ----------------------------------

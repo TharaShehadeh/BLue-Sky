@@ -252,10 +252,10 @@ We faced some difficulties due to the lack of time.
 ----------------------------------
 3-Thara --> wordFile SRS ,UML class diarams , gitHub account(uploading files,add team members,READme file) ,Trello(Tasks),Burndown Chart,Xammp Database
 ----------------------------------
-4-Roaa --> wordFile SRS ,UML UseCases diagrams,Xammp Database,GUI,Backend(sprint1,sprint2),Demo of our project,gitHub(uploading project),wordFile Backlogs
+4-Roaa --> wordFile SRS ,UML UseCases diagrams,Xammp Database,GUI,Backend(sprint1,sprint2),gitHub(uploading project)
 ----------------------------------
-5-Raghad --> wordFile SRS ,UML UseCases diagrams ,UML  sequence diagrams ,Xammp Database,GUI,Backend(sprint1,sprint2),Demo of our project,gitHub(uploading project)
+5-Raghad --> wordFile SRS ,UML UseCases diagrams ,UML  sequence diagrams ,Xammp Database,GUI,Backend(sprint1,sprint2),gitHub(uploading project)
 ----------------------------------
-6-Misk --> wordFile SRS ,Frontend,Xammp Database,Backend(sprint1,sprint2),Demo of our project,gitHub(uploading project),wordFile Backlogs
+6-Misk --> wordFile SRS ,Frontend,Xammp Database,Backend(sprint1,sprint2),gitHub(uploading project)
 ----------------------------------
 
